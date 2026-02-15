@@ -1,4 +1,6 @@
-Full credit goes to the UltrakULL team for the original mod.
+<img width="960" height="540" alt="VOX_INFERI" src="https://github.com/user-attachments/assets/5c967721-9bcd-487c-9b21-396539737888" />
+Full credit goes to the UltrakULL team 
+for the original mod.
 I’m only responsible for the Italian translation.
 If you enjoy this project, please consider supporting them:
 [DISCORD](https://discord.gg/BTENss6W)
