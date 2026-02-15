@@ -1,8 +1,8 @@
 Full credit goes to the UltrakULL team for the original mod.
 I’m only responsible for the Italian translation.
 If you enjoy this project, please consider supporting them:
-DISCORD
-MOD PAGE
+[DISCORD](https://discord.gg/BTENss6W)
+[MOD PAGE](https://github.com/ClearwaterUK/UltrakULL)
 
 ULTRAKILL - Vox Inferi 1.0
 
