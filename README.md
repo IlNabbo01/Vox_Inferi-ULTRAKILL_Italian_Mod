@@ -6,7 +6,7 @@ If you enjoy this project, please consider supporting them:
 [DISCORD](https://discord.gg/BTENss6W)
 [MOD PAGE](https://github.com/ClearwaterUK/UltrakULL)
 
-ULTRAKILL - Vox Inferi 1.0
+ULTRAKILL - Vox Inferi 1.3.0
 
 ENGLISH:
 
