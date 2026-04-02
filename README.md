@@ -2,10 +2,10 @@
   <img width="960" height="540" alt="VOX_INFERI" src="https://github.com/user-attachments/assets/5c967721-9bcd-487c-9b21-396539737888" />
 </p>
 
-<h1 align="center">ULTRAKILL – Vox Inferi (Italian Translation)</h1>
+<h1 align="center">ULTRAKILL - Vox Inferi (Italian Translation)</h1>
 
 <p align="center">
-  <b>Version 1.3.0</b> • Traduzione italiana di ULTRAKILL
+  <b>Version 1.x</b> • Traduzione italiana di ULTRAKILL
 </p>
 
 <p align="center">
@@ -28,8 +28,8 @@ If you enjoy the project, consider supporting the original creators:
 
 ## 🇬🇧 ENGLISH
 
-Hey! 👋  
-If you're reading this, you're probably about to download the mod — thank you, I really appreciate it.
+Hey!  
+If you're reading this, you're probably about to download the mod - thank you, I really appreciate it.
 
 ### ⚙️ Installation
 
@@ -43,7 +43,7 @@ If prompted to overwrite existing files, select **Yes**.
 
 **Step 3**  
 Launch the game.  
-In the settings, you'll find a new section called **Languages** — select **Italian** from there.
+In the settings, you'll find a new section called **Languages** - select **Italian** from there.
 
 ---
 
@@ -55,8 +55,8 @@ If you want to enable Italian dubbing:
 - Enable the **"Dubbing"** checkbox
 
 ⚠ **Note:**  
-This is currently **version 1.0 of the dubbing**, meaning:
-- ✅ Text is translated  
+This is currently **version 1.x**, meaning:
+- Text is translated  
 - 🚧 Voice acting is still in progress  
 
 <p align="center">
@@ -65,8 +65,8 @@ This is currently **version 1.0 of the dubbing**, meaning:
 
 ## 🇮🇹 ITALIANO
 
-Ciao! 👋  
-Se stai leggendo questo file, probabilmente stai per scaricare la mod — grazie mille, lo apprezzo davvero.
+Ciao! 
+Se stai leggendo questo file, probabilmente stai per scaricare la mod - grazie mille, lo apprezzo davvero.
 
 ### ⚙️ Installazione
 
@@ -92,8 +92,8 @@ Per attivare il doppiaggio:
 - Attiva la casella **"Dubbing"**
 
 ⚠ **Nota:**  
-Questa è attualmente la **versione 1.0 del doppiaggio**, quindi:
-- ✅ Traduzione testi completa  
+Questa è attualmente la **versione 1.x**, quindi:
+- Traduzione testi completa  
 - 🚧 Doppiaggio ancora in fase di sviluppo  
 
 <p align="center">
@@ -103,24 +103,17 @@ Questa è attualmente la **versione 1.0 del doppiaggio**, quindi:
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5fc38914-8feb-469d-a6cd-1c9c0fbb7563" width="850"/>
+  <img src="https://github.com/user-attachments/assets/5fc38914-8feb-469d-a6cd-1c9c0fbb7563" width="32%" style="margin-right: 1%">
+  <img src="https://github.com/user-attachments/assets/f237dc2c-69da-479d-9ab5-5f21498240c9" width="32%" style="margin-right: 1%">
+  <img src="https://github.com/user-attachments/assets/4f733904-1837-4036-867c-34dae604037c" width="32%">
 </p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f237dc2c-69da-479d-9ab5-5f21498240c9" width="850"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4f733904-1837-4036-867c-34dae604037c" width="850"/>
-</p>
-
 
 ---
 
-## 💡 Notes
+## Notes
 
 - This project is a **fan-made translation**  
-- No ownership is claimed over the original mod  
+- No ownership is claimed over the original game  
 - All rights belong to the respective creators  
 
 <p align="center">
