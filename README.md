@@ -19,7 +19,7 @@ This repository only provides the **Italian translation**.
 
 If you enjoy the project, consider supporting the original creators:
 
-- 💬 [Discord](https://discord.gg/BTENss6W)  
+- 💬 [Discord](https://discord.gg/Mk47WC8HgP)  
 - [Original Mod Page](https://github.com/ClearwaterUK/UltrakULL)
 
 <p align="center">
