@@ -35,7 +35,7 @@ If you're reading this, you're probably about to download the mod - thank you, I
 
 **Step 1**  
 Open your `BepInEx` folder:
-YOUR DISK:*YOUR FOLDER*\steam\steamapps\common\ULTRAKILL\BepInEx
+YOUR DISK:\YOUR FOLDER\steam\steamapps\common\ULTRAKILL\BepInEx
 
 **Step 2**  
 Copy the mod folders (`config` and `plugins`) into the `BepInEx` folder.  
@@ -65,14 +65,14 @@ This is currently **version 1.x**, meaning:
 
 ## 🇮🇹 ITALIANO
 
-Ciao! 
+Ciao!  
 Se stai leggendo questo file, probabilmente stai per scaricare la mod - grazie mille, lo apprezzo davvero.
 
 ### Installazione
 
 **Passaggio 1**  
 Apri la cartella `BepInEx`:
-TUO DISCO:*TUA CARTELLA*\steam\steamapps\common\ULTRAKILL\BepInEx
+TUO DISCO:\TUA CARTELLA\steam\steamapps\common\ULTRAKILL\BepInEx
 
 **Passaggio 2**  
 Copia le cartelle della mod (`config` e `plugins`) dentro `BepInEx`.  
@@ -103,8 +103,8 @@ Questa è attualmente la **versione 1.x**, quindi:
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5fc38914-8feb-469d-a6cd-1c9c0fbb7563" width="32%" style="margin-right: 1%">
-  <img src="https://github.com/user-attachments/assets/f237dc2c-69da-479d-9ab5-5f21498240c9" width="32%" style="margin-right: 1%">
+  <img src="https://github.com/user-attachments/assets/5fc38914-8feb-469d-a6cd-1c9c0fbb7563" width="32%">
+  <img src="https://github.com/user-attachments/assets/f237dc2c-69da-479d-9ab5-5f21498240c9" width="32%">
   <img src="https://github.com/user-attachments/assets/4f733904-1837-4036-867c-34dae604037c" width="32%">
 </p>
 
