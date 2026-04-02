@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img width="960" height="540" alt="VOX_INFERI" src="https://github.com/user-attachments/assets/5c967721-9bcd-487c-9b21-396539737888" />
 </p>
 
@@ -8,10 +8,8 @@
   <b>Version 1.3.0</b> • Traduzione italiana di ULTRAKILL
 </p>
 
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&reversal=true">
 </p>
 
 ## 📌 Credits
@@ -24,10 +22,8 @@ If you enjoy the project, consider supporting the original creators:
 - 💬 [Discord](https://discord.gg/BTENss6W)  
 - 📦 [Original Mod Page](https://github.com/ClearwaterUK/UltrakULL)
 
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header">
 </p>
 
 ## 🇬🇧 ENGLISH
@@ -39,6 +35,7 @@ If you're reading this, you're probably about to download the mod — thank you,
 
 **Step 1**  
 Open your `BepInEx` folder:
+YOUR DISK:*YOUR FOLDER*\steam\steamapps\common\ULTRAKILL\BepInEx
 
 **Step 2**  
 Copy the mod folders (`config` and `plugins`) into the `BepInEx` folder.  
@@ -62,10 +59,8 @@ This is currently **version 1.0 of the dubbing**, meaning:
 - ✅ Text is translated  
 - 🚧 Voice acting is still in progress  
 
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer">
 </p>
 
 ## 🇮🇹 ITALIANO
@@ -77,6 +72,7 @@ Se stai leggendo questo file, probabilmente stai per scaricare la mod — grazie
 
 **Passaggio 1**  
 Apri la cartella `BepInEx`:
+TUO DISCO:*TUA CARTELLA*\steam\steamapps\common\ULTRAKILL\BepInEx
 
 **Passaggio 2**  
 Copia le cartelle della mod (`config` e `plugins`) dentro `BepInEx`.  
@@ -100,10 +96,8 @@ Questa è attualmente la **versione 1.0 del doppiaggio**, quindi:
 - ✅ Traduzione testi completa  
 - 🚧 Doppiaggio ancora in fase di sviluppo  
 
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer&reversal=true">
 </p>
 
 ## 🖼️ Screenshots
@@ -118,7 +112,9 @@ Questa è attualmente la **versione 1.0 del doppiaggio**, quindi:
 - No ownership is claimed over the original mod  
 - All rights belong to the respective creators  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3">
+</p>
 
 <p align="center">
   ❤️ Thanks for downloading and supporting the project!
