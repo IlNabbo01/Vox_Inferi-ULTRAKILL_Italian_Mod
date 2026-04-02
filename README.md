@@ -1,48 +1,125 @@
-<img width="960" height="540" alt="VOX_INFERI" src="https://github.com/user-attachments/assets/5c967721-9bcd-487c-9b21-396539737888" />
-Full credit goes to the UltrakULL team 
-for the original mod.
-I’m only responsible for the Italian translation.
-If you enjoy this project, please consider supporting them:
-[DISCORD](https://discord.gg/BTENss6W)
-[MOD PAGE](https://github.com/ClearwaterUK/UltrakULL)
+<p align="center">
+  <img width="960" height="540" alt="VOX_INFERI" src="https://github.com/user-attachments/assets/5c967721-9bcd-487c-9b21-396539737888" />
+</p>
 
-ULTRAKILL - Vox Inferi 1.3.0
+<h1 align="center">ULTRAKILL – Vox Inferi (Italian Translation)</h1>
 
-ENGLISH:
+<p align="center">
+  <b>Version 1.3.0</b> • Traduzione italiana di ULTRAKILL
+</p>
 
-Hey! If you're reading this, it means you're probably going to download this mod, and I'm really grateful for that, so here are the steps.
+---
 
-step 1: Open the BepInEx folder (that should be like "*YOUR DISK*:\*YOUR FOLDER*\steam\steamapps\common\ULTRAKILL\BepInEx)
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%">
+</p>
 
-step 2: Place the 2 folders of the mod (config and plugins) into the BepInEx folder, If it asks you to overwrite the files because they already exist, select yes.
+## 📌 Credits
 
-step 3: When you open the game, you'll see a new checkbox in the settings, "Languages," and from there you can select Italian.
+Full credit goes to the original **UltrakULL team** for creating the mod.  
+This repository only provides the **Italian translation**.
 
+If you enjoy the project, consider supporting the original creators:
 
-If you want to use Italian dubbing, you'll need to go to the audio settings and enable the "dubbing" checkbox. But please note:
+- 💬 [Discord](https://discord.gg/BTENss6W)  
+- 📦 [Original Mod Page](https://github.com/ClearwaterUK/UltrakULL)
 
-⚠ Note: this is version 1.0 of the mod, meaning it's only for text; dubbing is still being done!
+---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%">
+</p>
 
+## 🇬🇧 ENGLISH
 
+Hey! 👋  
+If you're reading this, you're probably about to download the mod — thank you, I really appreciate it.
 
-ITALIAN:
+### ⚙️ Installation
 
-Ciao!
-Se stai leggendo questo file significa che probabilmente scaricherai la mod, e te ne sono davvero grato. Ecco i passaggi per installarla:
+**Step 1**  
+Open your `BepInEx` folder:
 
-Passaggio 1:
-Apri la cartella BepInEx (dovrebbe trovarsi in: *TUO DISCO*:\*TUA CARTELLA*\steam\steamapps\common\ULTRAKILL\BepInEx)
+**Step 2**  
+Copy the mod folders (`config` and `plugins`) into the `BepInEx` folder.  
+If prompted to overwrite existing files, select **Yes**.
 
-Passaggio 2:
-Copia le 2 cartelle della mod (config e plugins) dentro la cartella BepInEx.
-Se ti viene chiesto di sovrascrivere i file perché già esistono, seleziona Sì.
+**Step 3**  
+Launch the game.  
+In the settings, you'll find a new section called **Languages** — select **Italian** from there.
 
-Passaggio 3:
-Avvia il gioco.
-Nelle impostazioni troverai una nuova sezione chiamata "Languages": da lì potrai selezionare l’italiano.
+---
 
+### 🎙️ Italian Dubbing
 
-Se desideri attivare il doppiaggio in italiano, vai nelle impostazioni audio e attiva la casella "Dubbing".
+If you want to enable Italian dubbing:
 
-⚠ Nota: questa è la versione 1.0 della mod, quindi al momento include solo la traduzione dei testi. Il doppiaggio è ancora in fase di realizzazione!
+- Go to **Audio Settings**
+- Enable the **"Dubbing"** checkbox
+
+⚠ **Note:**  
+This is currently **version 1.0 of the dubbing**, meaning:
+- ✅ Text is translated  
+- 🚧 Voice acting is still in progress  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%">
+</p>
+
+## 🇮🇹 ITALIANO
+
+Ciao! 👋  
+Se stai leggendo questo file, probabilmente stai per scaricare la mod — grazie mille, lo apprezzo davvero.
+
+### ⚙️ Installazione
+
+**Passaggio 1**  
+Apri la cartella `BepInEx`:
+
+**Passaggio 2**  
+Copia le cartelle della mod (`config` e `plugins`) dentro `BepInEx`.  
+Se richiesto, conferma la **sovrascrittura dei file**.
+
+**Passaggio 3**  
+Avvia il gioco.  
+Nelle impostazioni troverai una nuova sezione chiamata **Languages**, da cui potrai selezionare **Italiano**.
+
+---
+
+### 🎙️ Doppiaggio Italiano
+
+Per attivare il doppiaggio:
+
+- Vai nelle **impostazioni audio**
+- Attiva la casella **"Dubbing"**
+
+⚠ **Nota:**  
+Questa è attualmente la **versione 1.0 del doppiaggio**, quindi:
+- ✅ Traduzione testi completa  
+- 🚧 Doppiaggio ancora in fase di sviluppo  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100%">
+</p>
+
+## 🖼️ Screenshots
+
+> (Aggiungi qui immagini del gioco con la traduzione)
+
+---
+
+## 💡 Notes
+
+- This project is a **fan-made translation**  
+- No ownership is claimed over the original mod  
+- All rights belong to the respective creators  
+
+---
+
+<p align="center">
+  ❤️ Thanks for downloading and supporting the project!
+</p>
