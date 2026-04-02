@@ -106,6 +106,8 @@ Questa è attualmente la **versione 1.x**, quindi:
   <img src="https://github.com/user-attachments/assets/5fc38914-8feb-469d-a6cd-1c9c0fbb7563" width="32%">
   <img src="https://github.com/user-attachments/assets/f237dc2c-69da-479d-9ab5-5f21498240c9" width="32%">
   <img src="https://github.com/user-attachments/assets/4f733904-1837-4036-867c-34dae604037c" width="32%">
+  <img src="https://github.com/user-attachments/assets/d896eb0c-17d5-4fe2-8200-059ba6ec0e79" width="32%">
+
 </p>
 
 ---
