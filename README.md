@@ -20,7 +20,7 @@ This repository only provides the **Italian translation**.
 If you enjoy the project, consider supporting the original creators:
 
 - 💬 [Discord](https://discord.gg/BTENss6W)  
-- 📦 [Original Mod Page](https://github.com/ClearwaterUK/UltrakULL)
+- [Original Mod Page](https://github.com/ClearwaterUK/UltrakULL)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header">
@@ -57,7 +57,7 @@ If you want to enable Italian dubbing:
 ⚠ **Note:**  
 This is currently **version 1.x**, meaning:
 - Text is translated  
-- 🚧 Voice acting is still in progress  
+- Voice acting is still in progress  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer">
@@ -68,7 +68,7 @@ This is currently **version 1.x**, meaning:
 Ciao! 
 Se stai leggendo questo file, probabilmente stai per scaricare la mod - grazie mille, lo apprezzo davvero.
 
-### ⚙️ Installazione
+### Installazione
 
 **Passaggio 1**  
 Apri la cartella `BepInEx`:
@@ -94,7 +94,7 @@ Per attivare il doppiaggio:
 ⚠ **Nota:**  
 Questa è attualmente la **versione 1.x**, quindi:
 - Traduzione testi completa  
-- 🚧 Doppiaggio ancora in fase di sviluppo  
+- Doppiaggio ancora in fase di sviluppo  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer&reversal=true">
@@ -121,5 +121,5 @@ Questa è attualmente la **versione 1.x**, quindi:
 </p>
 
 <p align="center">
-  ❤️ Thanks for downloading and supporting the project!
+  Thanks for downloading and supporting the project!
 </p>
