@@ -102,9 +102,17 @@ Questa è attualmente la **versione 1.0 del doppiaggio**, quindi:
 
 ## 🖼️ Screenshots
 
-<img width="1918" height="1059" alt="Screenshot 2026-04-02 110123" src="https://github.com/user-attachments/assets/5fc38914-8feb-469d-a6cd-1c9c0fbb7563" />
-<img width="1915" height="1051" alt="Screenshot 2026-04-02 110346" src="https://github.com/user-attachments/assets/f237dc2c-69da-479d-9ab5-5f21498240c9" />
-<img width="1917" height="1056" alt="Screenshot 2026-04-02 110405" src="https://github.com/user-attachments/assets/4f733904-1837-4036-867c-34dae604037c" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5fc38914-8feb-469d-a6cd-1c9c0fbb7563" width="850"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f237dc2c-69da-479d-9ab5-5f21498240c9" width="850"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4f733904-1837-4036-867c-34dae604037c" width="850"/>
+</p>
 
 
 ---
