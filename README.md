@@ -100,7 +100,7 @@ Questa è attualmente la **versione 1.x**, quindi:
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer&reversal=true">
 </p>
 
-## 🖼️ Screenshots
+## Screenshots
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5fc38914-8feb-469d-a6cd-1c9c0fbb7563" width="32%">
